@@ -4,7 +4,7 @@
       "domain:googleapis.cn": "googleapis.com"
     },
     "servers": [
-      "121.54.70.150"
+      "1.1.1.1"
     ]
   },
   "inbounds": [
@@ -102,7 +102,7 @@
     "rules": [
       {
         "ip": [
-          "121.54.70.150"
+          "1.1.1.1"
         ],
         "outboundTag": "proxy",
         "port": "53",
