@@ -4,7 +4,7 @@
       "domain:googleapis.cn": "googleapis.com"
     },
     "servers": [
-      "1.1.1.1"
+      "121.54.70.150"
     ]
   },
   "inbounds": [
